@@ -4,26 +4,33 @@ h5 {
     float: left;
     width: 30%;
     font-size: 20px;
+    font-style: normal;
+    font-weight: inherit;
+    color: black;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 li {
-    padding: 5px;
+    padding: 15px;
     display: inline-block;
-    font-size: 20px;
-    text-decoration: none;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 ul {
     float: right;
 }
 
+a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
 button {
     color: white;
     background-color: black;
-    padding: 18px 2px;
-    border-radius: 40px;
+    padding: 15px 1px;
+    border-radius: 45px;
     font-size: 20px;
-    width: 200px;
+    width: 160px;
 }
